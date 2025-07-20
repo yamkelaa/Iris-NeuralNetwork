@@ -1,0 +1,42 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Package and build artifacts
+*.egg-info/
+dist/
+build/
+
+# Jupyter config and runtime files
+.jupyter/
+.jupyter_ystore.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# Test and coverage reports
+htmlcov/
+.tox/
+.pytest_cache/
+.coverage
+*.cover
+
+# OS-specific files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
